@@ -15,3 +15,6 @@ Python, die Pakete mit pip laden und losgehts.
 Die Auswertung der Rückgaben sind noch nicht ganz vollständing. Falls Ihr hier weitere Erfahrung mit der Dekodierung der Felder sammelt wäre ein commit oder Rückmeldung top.
 
 Unter staircaseblog.blogspot.de finden sich Infos zum Anschluss von CAN Interfaces an den Raspberry.
+
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)
